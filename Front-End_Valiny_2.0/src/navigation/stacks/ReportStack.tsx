@@ -1,3 +1,4 @@
+// navigation/stacks/ReportStack.tsx
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import ReportScreen from '../../screens/Report/ReportScreen';
